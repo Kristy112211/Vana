@@ -1,2 +1,2 @@
 # Vana..
-for vana.
+for vana..
